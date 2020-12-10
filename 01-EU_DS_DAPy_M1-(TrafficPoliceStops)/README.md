@@ -1,12 +1,8 @@
 ___
 
-<p style="text-align: center;"><img src="https://docs.google.com/uc?id=1lY0Uj5R04yMY3-ZppPWxqCr5pvBLYPnV" class="img-fluid" alt="CLRSWY"></p>
-
-___
-
 <h1><p style="text-align: center;">Data Analysis with Python <br>Project - 1 (Police Stops in Traffic)</p></h1> 
 
-<img src="https://docs.google.com/uc?id=17CPCwi3_VvzcS87TOsh4_U8eExOhL6Ki" class="img-fluid" alt="CLRSWY" width="270" height="230"> 
+
 
 ***
 # Descriptions :
